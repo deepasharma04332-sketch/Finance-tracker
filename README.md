@@ -20,6 +20,7 @@ MySQL for the database (SQLite also works and is the default for local testing, 
 
 Folder structure-------!
 finance-tracker/
+
 ├── backend/
 │   ├── app.py
 │   ├── config.py
@@ -36,6 +37,7 @@ finance-tracker/
         ├── components/
         ├── charts/
         └── pages/
+        
 Running it locally
 
 Backend-------!
