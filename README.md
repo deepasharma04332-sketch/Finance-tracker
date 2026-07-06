@@ -1,4 +1,5 @@
 Personal Finance Tracker-------!
+
 A simple web app I built to track my own income and expenses — mainly to actually use for my monthly budgeting, and also to get hands-on practice connecting a React frontend to a Flask backend with a real database instead of just dumping everything in localStorage.
 
 What it does-------!
