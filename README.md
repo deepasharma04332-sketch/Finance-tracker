@@ -63,4 +63,4 @@ POST /api/auth/login — login
 GET/POST /api/categories — list / add categories
 GET/POST/PUT/DELETE /api/transactions — manage transactions
 GET /api/summary/monthly — totals + category breakdown for a month
-GET /api/summary/trend — income vs expense over last N months
+GET /api/summary/trend — income vs expense over last N months.
