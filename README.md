@@ -16,7 +16,7 @@ Tech stack-------!
 
 React (Vite) + Tailwind CSS + Recharts on the frontend
 Flask + SQLAlchemy + Flask-JWT-Extended on the backend
-MySQL for the database (SQLite also works and is the default for local testing, so there's nothing extra to install)
+MySQL for the database (SQLite also works and is the default for local testing, so there's nothing extra to install).
 
 Folder structure-------!
 finance-tracker/
