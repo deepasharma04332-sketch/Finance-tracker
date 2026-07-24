@@ -10,7 +10,7 @@ Edit or delete any entry
 Dashboard showing total income, total expense, and savings for whichever month you pick
 Pie chart for expense breakdown by category
 Line chart comparing income vs expense over the last 6 months
-Default categories (Salary, Food, Rent, etc.) get created automatically when you sign up, so you're not starting from a blank slate
+Default categories (Salary, Food, Rent, etc.) get created automatically when you sign up, so you're not starting from a blank slate.
 
 Tech stack-------!
 
