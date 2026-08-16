@@ -38,23 +38,6 @@ finance-tracker/
         ├── charts/
         └── pages/
         
-Running it locally
-
-Backend-------!
-cd backend
-pip install -r requirements.txt
-cp .env.example .env
-python app.py
-Runs on http://localhost:5000. Uses SQLite by default, so you can just run it as-is.
-Want MySQL instead? Create a database and update DATABASE_URL in .env:
-DATABASE_URL=mysql+pymysql://root:yourpassword@localhost:3306/finance_tracker.
-
-Frontend-------!
-cd frontend
-npm install
-cp .env.example .env
-npm run dev
-Runs on http://localhost:5173.
 
 API routes-------!
 
