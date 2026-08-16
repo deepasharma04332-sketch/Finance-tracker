@@ -21,7 +21,7 @@ def get_transactions():
     user_id = get_jwt_identity()
     query = Transaction.query.filter_by(user_id=user_id)
 
-    # Optional filters
+    # Optional filter
     month = request.args.get("month", type=int)
     year = request.args.get("year", type=int)
     category_id = request.args.get("category_id", type=int)
