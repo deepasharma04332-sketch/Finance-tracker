@@ -1,4 +1,4 @@
-# 💰 Personal Finance Tracker
+#  Personal Finance Tracker
 
 A full-stack personal finance management web application built to help users track their **income, expenses, savings, and monthly spending patterns** in one place.
 
